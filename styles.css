@@ -1,0 +1,33 @@
+body
+{
+	margin:0px;
+}
+
+table{
+	width:100%;
+	border-collapse:collapse;
+	font:14px Arial,sans-serif;
+}
+
+#data1{
+	padding:10px 20px;
+	color: white;
+	background-color:#00539CFF;
+}
+
+#row2{
+	height:170px;
+}
+
+#data2{
+	width:20%;
+	padding:20px;
+	background-color:#00203FFF;
+	vertical-align: top;
+}
+
+#data3{
+	padding:5px;
+	background-color:#00539CFF;
+	text-align:center;
+}
