@@ -1,5 +1,5 @@
 # Ping-Pong-Game
-Click here [Ping-Pong](https://lovelight-247.github.io/Ping-Pong-Game/) To see it in action!
+Click here [Ping-Pong](https://derbi-calderon.github.io/Ping-Pong-Game/) To see it in action!
 <br>
 ## Screenshots
 Screenshot of Gameplay:
